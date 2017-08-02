@@ -1,8 +1,9 @@
 # Scrapping-movies-information-from-IMDB
-Scrapping all movies information from IMDB including names, released year, rating, director and actors
+
+## Scrapping all movies information from IMDB including names, released year, rating, director and actors
 
 
-Author: Binqian Zeng
+**Author: Binqian Zeng**
 
 Scrapping information of all movies from IMDB website. 
 
