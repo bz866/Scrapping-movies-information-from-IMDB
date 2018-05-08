@@ -3,7 +3,7 @@
 ## Scrapping all movies information from IMDB including names, released year, rating, director and actors
 
 
-**Author: Binqian Zeng**
+**Author: Eric (Binqian) Zeng**
 
 Scrapping information of all movies from IMDB website. 
 
